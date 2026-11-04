@@ -13,3 +13,7 @@ Progress and settings are stored locally on your device. The game does not provi
 ## Privacy
 
 Read the [Kelgekeman Privacy Policy](PRIVACY.md).
+
+## Credits
+
+See [third-party asset and library credits](CREDITS.md).
